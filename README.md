@@ -15,6 +15,6 @@ The repository is organized to facilitate easy access to the project resources a
 - **ResizingCanvas.py**: This file provides a helper function for creating a tkinter canvas with an auto aspect ratio. It ensures that the simulation environment is displayed properly on different screen sizes.
 
 - **Wolf.py**: This file contains the class definition for the Wolf drone. It inherits from the Predator class and adds the functionality of carrying a payload of up to 2kg.
-- 
+
 - requirements.txt: This file lists the required dependencies and their versions for running the project. 
 It is recommended to set up a conda virtual environment and install the dependencies using ```conda install --file requirements.txt```
